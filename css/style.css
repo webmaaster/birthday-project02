@@ -1,0 +1,22 @@
+
+h1, h2 {
+  font-family: 'Lobster', cursive;
+  color: crimson;
+  text-align: center;
+  margin-bottom: 32px;
+}
+h1 {
+  font-size: 16px;
+}
+h2 {
+  font-size: 32px;
+}
+
+img {
+  width: 100%;
+}
+#container {
+  width: 600px;
+  margin: 100px auto;
+  background-color: lightgreen;
+}
